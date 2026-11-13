@@ -1,0 +1,45 @@
+# macOS metadata
+.DS_Store
+._*
+
+# Python and Jupyter temporary files
+__pycache__/
+.ipynb_checkpoints/
+.jupyter/
+.venv/
+
+# Geographic datasets
+data/
+qgis/layers/
+
+# ZIP archive
+geographic_datasets.zip
+
+# QGIS temporary and backup files
+*.qgs~
+*.qgz~
+*.qgd
+
+# Secrets
+.env# Large geographic datasets
+qgis/layers/
+data/
+geographic_datasets.zip# macOS files
+.DS_Store
+
+# Python temporary files
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# Keep datasets on the external drive
+data/
+
+# QGIS temporary and backup files
+*.qgs~
+*.qgz~
+*.qgd
+
+# Secrets
+.env
+
